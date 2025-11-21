@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Udemy Clone Website
 Welcome to the Udemy Clone Website project! This is a simple web application that replicates the basic structure and design of Udemy, an online learning and teaching platform. This project is built using HTML and basic CSS, providing a foundational layout for a course marketplace.
 
@@ -19,3 +20,6 @@ Check the Live Demo here.https://aswath111.github.io/udemy-clone/
 
 ## Contact
 If you have any questions or suggestions, please reach out to [subramaniaswathkumar@gmail.com] or open an issue on GitHub.
+=======
+# Udemy-Clone-
+>>>>>>> 460c6dd207a22ed82c55749220c05ecb373c7bb5
