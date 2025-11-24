@@ -16,10 +16,6 @@ HTML: For structuring the content.
 CSS: For styling and layout.
 
 ## Live Demo
-Check the Live Demo here.https://aswath111.github.io/udemy-clone/
+Check the Live Demo here.(https://subalakahmi777.github.io/Udemy-Clone-/)
 
-## Contact
-If you have any questions or suggestions, please reach out to [subramaniaswathkumar@gmail.com] or open an issue on GitHub.
-=======
-# Udemy-Clone-
->>>>>>> 460c6dd207a22ed82c55749220c05ecb373c7bb5
+
